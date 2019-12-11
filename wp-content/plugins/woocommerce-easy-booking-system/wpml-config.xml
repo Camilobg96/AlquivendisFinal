@@ -1,0 +1,15 @@
+<wpml-config>
+    <custom-fields>
+		<custom-field action="copy">_bookable</custom-field>
+		<custom-field action="copy">_booking_dates</custom-field>
+		<custom-field action="copy">_booking_duration</custom-field>
+		<custom-field action="copy">_custom_booking_duration</custom-field>
+		<custom-field action="copy">_first_available_dates</custom-field>
+		<custom-field action="copy">_booking_min</custom-field>
+		<custom-field action="copy">_booking_max</custom-field>
+        <custom-field action="copy">_booking_days</custom-field>
+        <custom-field action="copy">_discount_data</custom-field>
+        <custom-field action="copy">_ebdida_disabled_dates</custom-field>
+        <custom-field action="copy">_ebp_product_prices</custom-field>
+    </custom-fields>
+</wpml-config>
